@@ -1,0 +1,473 @@
+name,source,gender,wikidata,type
+August-Brötje-Straße,wikidata,,Q761022,way
+"Danziger Straße",wikidata,,Q1792,way
+"Leuchtenburger Straße",wikidata,,Q64152564,way
+"Oldenburger Straße",wikidata,,Q2936,way
+Raiffeisenstraße,wikidata,,Q2127545,way
+"Rudolstädter Straße",wikidata,,Q517107,way
+"Stettiner Straße",wikidata,,Q393,way
+"Südender Straße",wikidata,,Q64152191,way
+"Thüringer Straße",wikidata,,Q1205,way
+Abtsweg,,,,way
+"Achterdörper Weg",,,,way
+"Achtern Grode Feldhus",,,,way
+"Achtern Kamp",,,,way
+"Achtern Nordpol",,,,way
+Ackerweg,,,,way
+Adelheidstraße,,,,way
+Ahornstraße,,,,way
+Allerstraße,,,,way
+Alpenrosenweg,,,,way
+"Alt Ipweger Weg",,,,way
+"Alte Landstraße",,,,way
+"Alte Schloßgärtnerei",,,,way
+"Alter Bahndamm",,,,way
+"Alter Lehmder Weg",,,,way
+"Alter Lehmdermoorweg",,,,way
+"Am Autobahnkreuz",,,,way
+"Am Brink",,,,way
+"Am Brook",,,,way
+"Am Denkmal",,,,way
+"Am Eichenbruch",,,,way
+"Am Eichenwall",,,,way
+"Am Ellern",,,,way
+"Am Hagen",,,,way
+"Am Hahner Busch",,,,way
+"Am Hang",,,,way
+"Am Hankhauser Busch",,,,way
+"Am Hardenkamp",,,,way
+"Am Heerweg",,,,way
+"Am Heidkamp",,,,way
+"Am Hingstkamp",,,,way
+"Am Hogen Esch",,,,way
+"Am Hornkamp",,,,way
+"Am Horstbusch",,,,way
+"Am Kleinenfelde",,,,way
+"Am Langenberg",,,,way
+"Am Liethegleis",,,,way
+"Am Lüttjen Kamp",,,,way
+"Am Mühlenhof",,,,way
+"Am Nordkreuz",,,,way
+"Am Nordrand",,,,way
+"Am Ostermoor",,,,way
+"Am Palsterkiel",,,,way
+"Am Renkenkamp",,,,way
+"Am Rundteich",,,,way
+"Am Schießstand",,,,way
+"Am Schippstroth",,,,way
+"Am Sportplatz",,,,way
+"Am Sternbusch",,,,way
+"Am Stratjebusch",,,,way
+"Am Teich",,,,way
+"Am Turm",,,,way
+"Am Vorwerk",,,,way
+"Am Waldrand",,,,way
+"Am Wasserwerk",,,,way
+"Am Wiesenrand",,,,way
+"Am Winkel",,,,way
+Amselstraße,,,,way
+"An Hagendorffs Busch",,,,way
+"An den Langen Stücken",,,,way
+"An den Wellen",,,,way
+"An der Badeanstalt",,,,way
+"An der Bäke",,,,way
+"An der Bleiche",,,,way
+"An der Braker Bahn",,,,way
+"An der Brücke",,,,way
+"An der Hankhauser Bäke",,,,way
+"An der Kämpe",,,,way
+"An der Lemmelheide",,,,way
+"An der Vorwerksgraft",,,,way
+"An der Wapel",,,,way
+"An der Wilhelmshöhe",,,,way
+Arndtstraße,,,,way
+"Auf dem Esch",,,,way
+"Auf dem Kamp",,,,way
+"Auf dem Knollen",,,,way
+"Auf der Raade",,,,way
+Bahnhofstraße,,,,way
+Bahnweg,,,,way
+Bäkenweg,,,,way
+Balsterhörn,,,,way
+"Barghorner Weg",,,,way
+Barkenweg,,,,way
+Baumgartenstraße,,,,way
+Baumschulenweg,,,,way
+"Beckhauser Büsche",,,,way
+"Bei der Landwehr",,,,way
+"Bekhauser Esch",,,,way
+Bekhausermoorweg,,,,way
+Bentweg,,,,way
+Berneweg,,,,way
+Bienenweide,,,,way
+Birkendamm,,,,way
+Birkenstraße,,,,way
+"Blauer Baum",,,,way
+Bogenstraße,,,,way
+Bohlendamm,,,,way
+"Borbecker Weg",,,,way
+Brahmweg,,,,way
+"Braker Chaussee",,,,way
+"Breslauer Straße",,,,way
+Brombeerweg,,,,way
+Brunsweg,,,,way
+Buchenstraße,,,,way
+Bürgermeister-Brötje-Straße,,,,way
+Buschweg,,,,way
+"Butjadinger Straße",,,,way
+"Butteler Weg",,,,way
+Buttelmannsweg,,,,way
+Carl-Ferdinand-Bosse-Weg,,,,way
+Carl-Rohde-Straße,,,,way
+Cassebohmweg,,,,way
+Consensweg,,,,way
+Cornelius-Schmidt-Straße,,,,way
+Dachsweg,,,,way
+Deelenweg,,,,way
+"Delfshauser Straße",,,,way
+Delmeweg,,,,way
+Denkmalsweg,,,,way
+Diedr.-Blohm-Weg,,,,way
+Diedrich-Freels-Straße,,,,way
+Dießelweg,,,,way
+Dobbenstraße,,,,way
+Domsheide,,,,way
+Donaustraße,,,,way
+Dorfplatz,,,,way
+Dorfstraße,,,,way
+Dörpstraat,,,,way
+Dreschkamp,,,,way
+"Dringenburger Straße",,,,way
+Düserweg,,,,way
+Dwoweg,,,,way
+Egerstraße,,,,way
+Eggerkingsweg,,,,way
+Eibenstraße,,,,way
+Eichendorffstraße,,,,way
+Eichenstraße,,,,way
+Elbestraße,,,,way
+Elektrizitätsweg,,,,way
+Elisabethstraße,,,,way
+Ellbogenstraße,,,,way
+Emsoldstraße,,,,way
+Emsstraße,,,,way
+Erlenweg,,,,way
+Fabrikweg,,,,way
+Farnweg,,,,way
+Fasanenstraße,,,,way
+Feigenhof,,,,way
+Feldbreite,,,,way
+Feldriede,,,,way
+Feldrosenweg,,,,way
+Feldstraße,,,,way
+Fichtenstraße,,,,way
+Finkenstraße,,,,way
+Fischteichstraße,,,,way
+Florianstraße,,,,way
+Föhrenkamp,,,,way
+Friederikenstraße,,,,way
+Friedhofsweg,,,,way
+Friedrichskamp,,,,way
+Friedrichstraße,,,,way
+Fuchsweg,,,,way
+Fuldastraße,,,,way
+Fünfhäuserweg,,,,way
+Gabelweg,,,,way
+Gartenstraße,,,,way
+Geestrandstraße,,,,way
+Ginsterweg,,,,way
+Gleisweg,,,,way
+Gloysteinstraße,,,,way
+Gluckstraße,,,,way
+Goosbarg,,,,way
+Grabenweg,,,,way
+Graf-Christoffer-Straße,,,,way
+Graf-Huno-Straße,,,,way
+Grafestraße,,,,way
+Grasweg,,,,way
+Groteweg,,,,way
+"Grüner Brink",,,,way
+"Grüner Weg",,,,way
+"Gut Hahn",,,,way
+"Gut Nethen",,,,way
+"Gut Rehorn",,,,way
+Haarenkamp,,,,way
+Haarenstraße,,,,way
+Habekostweg,,,,way
+Hahnermoor,,,,way
+Hahnermoorweg,,,,way
+Hainbuchenstraße,,,,way
+Hakenstraße,,,,way
+Halfterweg,,,,way
+Handelshof,,,,way
+"Hankhauser Weg",,,,way
+Hankhausermoorweg,,,,way
+Hans-Hoffhenke-Ring,,,,way
+Hans-Wichmann-Straße,,,,way
+Hasenbült,,,,way
+Hasenpadd,,,,way
+Haseweg,,,,way
+Havelstraße,,,,way
+Heckenstraße,,,,way
+Heiddornweg,,,,way
+Heidecksburgstraße,,,,way
+Heideweg,,,,way
+"Heidkamper Weg",,,,way
+Heinrich-Bruns-Weg,,,,way
+Heinrich-Munderloh-Straße,,,,way
+Heinz-Friedler-Straße,,,,way
+Helmsweg,,,,way
+Hermann-Folkers-Straße,,,,way
+Hesterkrugstraße,,,,way
+Hesterstraße,,,,way
+"Hillers Weg",,,,way
+"Hinter dem Vorwerk",,,,way
+"Hinter den Linden",,,,way
+Hirschtorweg,,,,way
+Hirtenweg,,,,way
+Hochbornteich,,,,way
+"Hohe Brink",,,,way
+"Hohe Horst",,,,way
+"Hohe Liethe",,,,way
+"Hohe Looge",,,,way
+"Hoher Kamp",,,,way
+Hohlweg,,,,way
+Holunderweg,,,,way
+"Hostemoster Straße",,,,way
+Hubertusstraße,,,,way
+Hülsenweg,,,,way
+Hundertjückweg,,,,way
+Huntestraße,,,,way
+"Huntorfer Damm",,,,way
+"Im Dreieck",,,,way
+"Im Göhlen",,,,way
+"Im Hagen",,,,way
+"Im Himmel",,,,way
+"Im Kühlen Grunde",,,,way
+"In der Senke",,,,way
+"Jaderberger Straße",,,,way
+Jadestraße,,,,way
+Jagdweg,,,,way
+Jümmestraße,,,,way
+Kamphof,,,,way
+Kaninchenweg,,,,way
+Kiebitzmoor,,,,way
+Kiefernweg,,,,way
+"Klarmanns Kamp",,,,way
+"Kleibroker Straße",,,,way
+"Klein Feldhus",,,,way
+"Kleine Gasse",,,,way
+Klinkerstraße,,,,way
+"Klocks Weg",,,,way
+Klostermoorweg,,,,way
+Knickweg,,,,way
+Kögel-Willms-Platz,,,,way
+Kögel-Willms-Straße,,,,way
+"Kolberger Straße",,,,way
+Kolonatsweg,,,,way
+"Königsberger Straße",,,,way
+Königstraße,,,,way
+Konkenweg,,,,way
+Konrad-Ullrich-Straße,,,,way
+Koppelweg,,,,way
+Korinthenweg,,,,way
+Kornweg,,,,way
+"Kösliner Straße",,,,way
+Köttersweg,,,,way
+Kreyenstraße,,,,way
+Kuhdamm,,,,way
+"Kurze Straße",,,,way
+Ladestraße,,,,way
+"Lammers Damm",,,,way
+"Lange Reihe",,,,way
+Langenwischweg,,,,way
+Lauwstraße,,,,way
+Ledastraße,,,,way
+Leharstraße,,,,way
+Lehermoorweg,,,,way
+"Lehmder Straße",,,,way
+"Lehmder Weg",,,,way
+Leineweg,,,,way
+Lerchenstraße,,,,way
+Lesumstraße,,,,way
+Letheweg,,,,way
+Ligusterweg,,,,way
+Lilienstraße,,,,way
+Lindenstraße,,,,way
+"Logemanns Damm",,,,way
+Lorendamm,,,,way
+Lortzingstraße,,,,way
+"Loyer Kirchweg",,,,way
+"Loyer Weg",,,,way
+Loyerbergstraße,,,,way
+Luneweg,,,,way
+Marienstraße,,,,way
+Marktplatz,,,,way
+Meendeelweg,,,,way
+Meenheitsweg,,,,way
+Memelstraße,,,,way
+"Metjendorfer Straße",,,,way
+"Meyers Gang",,,,way
+"Meyers Weg",,,,way
+"Mitteldörper Weg",,,,way
+Mittelweg,,,,way
+"Mollberger Weg",,,,way
+Mönchsweg,,,,way
+Moordiek,,,,way
+Moorweg,,,,way
+Morissestraße,,,,way
+Mühlenstraße,,,,way
+Müritzstraße,,,,way
+Neißestraße,,,,way
+Nelkenstraße,,,,way
+"Nethener Kirchweg",,,,way
+"Nethener Weg",,,,way
+Neuekamp,,,,way
+"Neusüdender Straße",,,,way
+Nordermoordamm,,,,way
+Nordpol,,,,way
+Ochtumstraße,,,,way
+Oderstraße,,,,way
+Okerweg,,,,way
+Ollenweg,,,,way
+Ollerkamp,,,,way
+"Ortsumgehung Loyerberg",,,,way
+Osterbergstraße,,,,way
+Osteweg,,,,way
+Ostlandstraße,,,,way
+Otto-Jaritz-Straße,,,,way
+Pantinenweg,,,,way
+Paradiesstraße,,,,way
+Parkstraße,,,,way
+Peterstraße,,,,way
+Pirolstraße,,,,way
+Platanenweg,,,,way
+Poggenburg,,,,way
+Pottsweg,,,,way
+Quellenweg,,,,way
+"Rasteder Straße",,,,way
+Rehornweg,,,,way
+Richtweg,,,,way
+Ringstraße,,,,way
+Roggenmoorweg,,,,way
+Rolfskamp,,,,way
+Rosenstraße,,,,way
+Rotdornweg,,,,way
+Rundteichbrücke,,,,way
+Saalestraße,,,,way
+Sandbergstraße,,,,way
+Sanddornweg,,,,way
+Sandkuhlenweg,,,,way
+Schaapskovenweg,,,,way
+Schäferei,,,,way
+Schafjückenweg,,,,way
+Schaftrift,,,,way
+"Schanzer Weg",,,,way
+Schilfweg,,,,way
+Schlehenweg,,,,way
+Schloßstraße,,,,way
+"Schmaler Weg",,,,way
+Schmiedeweg,,,,way
+Schnepfenweg,,,,way
+Schoolkamp,,,,way
+Schoolstraat,,,,way
+Schrankenweg,,,,way
+Schulstraße,,,,way
+Schützenhofstraße,,,,way
+Schwalbenstraße,,,,way
+"Schwarzburger Straße",,,,way
+"Schwarzer Weg",,,,way
+Seilerweg,,,,way
+Siedenmoorweg,,,,way
+Sommerweg,,,,way
+"Sondershausener Straße",,,,way
+Sophienstraße,,,,way
+Spechtstraße,,,,way
+Speckweg,,,,way
+Spiekerstraße,,,,way
+Spillestraße,,,,way
+Splittweg,,,,way
+"Spohler Straße",,,,way
+Spreestraße,,,,way
+Springerweg,,,,way
+"Steenforths Moor",,,,way
+Steenkampsdamm,,,,way
+Stellmoorweg,,,,way
+Stollenkamp,,,,way
+Stöltjestraße,,,,way
+Strathweg,,,,way
+Strehlsweg,,,,way
+Strothweg,,,,way
+"Südbäker Straße",,,,way
+Südweg,,,,way
+Talweg,,,,way
+Tannenkrugstraße,,,,way
+Tannenweg,,,,way
+Taubenstraße,,,,way
+Tegelbusch,,,,way
+Tonkuhlenstraße,,,,way
+Töpferweg,,,,way
+"Töpkens Gang",,,,way
+Tulpenstraße,,,,way
+Tunnelweg,,,,way
+"Uhlhorns Gang",,,,way
+Uhlhornstraße,,,,way
+Ulmenstraße,,,,way
+Verbindungsstraße,,,,way
+Vogelbeerweg,,,,way
+Von-Humboldt-Straße,,,,way
+Vorderweg,,,,way
+Voßbarg,,,,way
+Wachtelstraße,,,,way
+"Wächters Gang",,,,way
+Wachthorst,,,,way
+Waldstraße,,,,way
+Wallstraße,,,,way
+Wapelstraße,,,,way
+Weichselstraße,,,,way
+Weidebusch,,,,way
+Weidenstraße,,,,way
+Weißdornweg,,,,way
+Weißenmoorstraße,,,,way
+Wellenstraße,,,,way
+Wemkenstraße,,,,way
+Wendeweg,,,,way
+Werkstraße,,,,way
+Werrastraße,,,,way
+Weserstraße,,,,way
+"Wiefelsteder Straße",,,,way
+Wiemkenstraße,,,,way
+Wiesenweg,,,,way
+Wildpark,,,,way
+Wilhelm-Behrens-Straße,,,,way
+Wilhelm-Kraatz-Straße,,,,way
+"Wilhelmshavener Straße",,,,way
+Wilhelmstraße,,,,way
+Willehadstraße,,,,way
+Wittenmoordamm,,,,way
+Wolfgang-Duwe-Straße,,,,way
+"Worther Weg",,,,way
+Wullgrasweg,,,,way
+Ziegelstraße,,,,way
+Ziegenweg,,,,way
+"Zum Ausblick",,,,way
+"Zum Breen",,,,way
+"Zum Damm",,,,way
+"Zum Ellern",,,,way
+"Zum Haltepunkt",,,,way
+"Zum Heidenopfertisch",,,,way
+"Zum Hörn",,,,way
+"Zum Klosterbusch",,,,way
+"Zum Krebsteich",,,,way
+"Zum Langenkamp",,,,way
+"Zum Roten Hahn",,,,way
+"Zum Sängerplatz",,,,way
+"Zum Schloss",,,,way
+"Zum Wisch",,,,way
+"Zum süßen Eingang",,,,way
+"Zur Bokelerburg",,,,way
+"Zur Heideblume",,,,way
+"Zur Jade",,,,way
+"Zur Schanze",,,,way
+Zur-Windmühlen-Straße,,,,way
+"Zwischen den Wällen",,,,way
